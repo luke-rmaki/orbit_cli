@@ -15,6 +15,7 @@ module.exports = {
   rules: {
     "linebreak-style": "off",
     "no-console": "off",
-    "prettier/prettier": "error"
+    "prettier/prettier": "error",
+    radix: "off"
   }
 };
