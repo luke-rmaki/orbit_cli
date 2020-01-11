@@ -1,0 +1,29 @@
+{
+  "name": "orbit_cli",
+  "version": "1.0.0",
+  "description": "A CLI that does math for basic orbital mechanics",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "start": "node ./bin/index",
+    "dev": "nodemon ./bin/index"
+  },
+  "author": "Luke Ruokaismaki",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^4.1.0",
+    "eslint-config-prettier": "^6.9.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.3",
+    "prettier": "^1.19.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1",
+    "jest": "^24.9.0",
+    "nodemon": "^2.0.2"
+  }
+}
