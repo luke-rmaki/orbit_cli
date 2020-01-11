@@ -1,9 +1,8 @@
-const figlet = require("figlet");
+#!/usr/bin/env node
+const cliStart = require("../lib/program");
 
-figlet("Orbit-CLI", (err, data) => {
-  if (err) {
-    console.log(`Something went wrong -> ${err}`);
-    return;
-  }
-  console.log(data);
-});
+const main = () => {
+  cliStart();
+};
+
+main();

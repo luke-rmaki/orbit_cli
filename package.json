@@ -2,6 +2,10 @@
   "name": "orbit_cli",
   "version": "1.0.0",
   "description": "A CLI that does math for basic orbital mechanics",
+  "bin": {
+    "orbit-cli": "./bin/index.js"
+  },
+  "preferGlobal": true,
   "main": "bin/index.js",
   "scripts": {
     "test": "jest --watchAll",
@@ -15,7 +19,6 @@
     "commander": "^4.1.0",
     "eslint-config-prettier": "^6.9.0",
     "eslint-plugin-prettier": "^3.1.2",
-    "figlet": "^1.2.4",
     "inquirer": "^7.0.3",
     "prettier": "^1.19.1"
   },
