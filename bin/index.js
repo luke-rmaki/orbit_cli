@@ -21,7 +21,8 @@ const main = () => {
             choices: [
               "Rocket Equation",
               "Vis Viva Equation",
-              "Velocity at a specific orbit"
+              "Velocity at a specific orbit",
+              "Orbital period"
             ]
           }
         ])
