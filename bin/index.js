@@ -8,10 +8,12 @@ const main = () => {
   program.version("0.0.1");
 
   program
-    .command("calc")
-    .alias("c")
+    .command("calc") // command full name
+    .alias("c") // command short name
     .description("Presents choice of CLI calculations")
+    // action to run when command is entered
     .action(() => {
+      // inquirer is used to present a multiple choice to user
       inquirer
         .prompt([
           {
