@@ -8,9 +8,7 @@
   "preferGlobal": true,
   "main": "bin/index.js",
   "scripts": {
-    "test": "jest --watchAll",
-    "start": "node ./bin/index",
-    "dev": "nodemon ./bin/index"
+    "test": "jest --watchAll"
   },
   "author": "Luke Ruokaismaki",
   "license": "ISC",
