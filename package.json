@@ -1,5 +1,5 @@
 {
-  "name": "orbit_cli",
+  "name": "@luke_rmaki/orbit_cli",
   "version": "1.0.0",
   "description": "A CLI that does math for basic orbital mechanics",
   "bin": {

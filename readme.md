@@ -2,6 +2,26 @@
 
 Orbit CLI is a command line interface that can perform basic orbital mechanics and rocketry math. It came about after playing many hours of Kerbal Space Program and just generally being interested in orbital mechanics.
 
+## Installation
+
+Requires Node JS installed.
+
+```javascript
+npm i -g @luke_rmaki/orbit_cli
+```
+
+## Usage
+
+```javascript
+orbit-cli calc
+```
+
+or
+
+```javascript
+orbit-cli c
+```
+
 ## Current calculations:
 
 - Orbital period (in minutes). This equation currently assumes a close to circular orbit
