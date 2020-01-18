@@ -24,7 +24,8 @@ const main = () => {
               "Rocket Equation",
               "Vis Viva Equation",
               "Velocity at a specific orbit",
-              "Orbital period"
+              "Orbital period",
+              "Phase angle"
             ]
           }
         ])
