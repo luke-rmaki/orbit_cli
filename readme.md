@@ -11,13 +11,12 @@ Orbit CLI is a command line interface that can perform basic orbital mechanics a
 
 ## Future features
 
-- Orbital speed for ellipses
-- Accent Delta V costs
+- Ascent Delta V costs
 - More....
 
 ## A few notes
 
-The default values used for the mass and radius of the primary body being orbited are the values provided in game for Kerbin but any values can be used in place. These equations are obvious just a rough indication of the numbers involved in building and flying a rocket, so always budget a bit more delta V
+These equations are obvious just a rough indication of the numbers involved in building and flying a rocket, so always budget a bit more delta V
 
 ### More information
 
