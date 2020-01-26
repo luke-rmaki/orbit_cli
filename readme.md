@@ -24,21 +24,19 @@ orbit-cli c
 
 ## Current calculations:
 
-- Orbital period (in minutes). This equation currently assumes a close to circular orbit
+- Orbital period (in minutes).
 - Orbital speed (in meters per second). This equation currently assumes a close to circular orbit
 - Tsiolkovsky's rocket equation (using specific impulse and standard gravity in place of exhaust velocity)
 - The Vis Viva equations to calculate the Delta V of a Hohmann Transfer
 
 ## Future features
 
-- Orbital periods for ellipses
-- Orbital speed for ellipses
-- Accent Delta V costs
+- Ascent Delta V costs
 - More....
 
 ## A few notes
 
-The default values used for the mass and radius of the primary body being orbited are the values provided in game for Kerbin but any values can be used in place. These equations are obvious just a rough indication of the numbers involved in building and flying a rocket, so always budget a bit more delta V
+These equations are obvious just a rough indication of the numbers involved in building and flying a rocket, so always budget a bit more delta V
 
 ### More information
 

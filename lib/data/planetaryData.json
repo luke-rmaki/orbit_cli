@@ -1,0 +1,66 @@
+{
+  "objects": [
+    {
+      "kerbol": {
+        "mass": 1.757e28,
+        "radius": 261600000
+      }
+    },
+    {
+      "moho": {
+        "mass": 2.526e21,
+        "radius": 250000,
+        "semiMajorAxis": 5.2631383e8
+      }
+    },
+    {
+      "eve": {
+        "mass": 1.224e23,
+        "radius": 700000,
+        "semiMajorAxis": 9.83268454e9
+      }
+    },
+    {
+      "gilly": {
+        "mass": 1.242e17,
+        "radius": 13000,
+        "semiMajorAxis": 3.15e7
+      }
+    },
+    {
+      "kerbin": {
+        "mass": 5.292e22,
+        "radius": 600000,
+        "semiMajorAxis": 1.359984026e10
+      }
+    },
+    {
+      "mun": {
+        "mass": 9.76e20,
+        "radius": 200000,
+        "semiMajorAxis": 1.2e7
+      }
+    },
+    {
+      "minmus": {
+        "mass": 2.646e19,
+        "radius": 60000,
+        "semiMajorAxis": 4.7e7
+      }
+    },
+    {
+      "duna": {
+        "mass": 4.515e21,
+        "radius": 320000,
+        "semiMajorAxis": 2.072615526e10
+      }
+    },
+    {
+      "ike": {
+        "mass": 2.782e20,
+        "radius": 130000,
+        "semiMajorAxis": 3.2e6
+      }
+    }
+  ]
+}
