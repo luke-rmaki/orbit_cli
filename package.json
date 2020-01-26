@@ -1,6 +1,6 @@
 {
   "name": "@luke_rmaki/orbit_cli",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A CLI that does math for basic orbital mechanics",
   "bin": {
     "orbit-cli": "./bin/index.js"
@@ -15,13 +15,13 @@
   "dependencies": {
     "chalk": "^3.0.0",
     "commander": "^4.1.0",
-    "eslint-config-prettier": "^6.9.0",
-    "eslint-plugin-prettier": "^3.1.2",
     "inquirer": "^7.0.3",
     "prettier": "^1.19.1"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-config-prettier": "^6.9.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.19.1",
     "jest": "^24.9.0",
