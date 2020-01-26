@@ -25,7 +25,8 @@ const main = () => {
               "Vis Viva Equation",
               "Velocity at a specific orbit",
               "Orbital period",
-              "Phase angle"
+              "Phase angle",
+              "Ascent cost"
             ]
           }
         ])
